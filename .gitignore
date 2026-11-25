@@ -1,0 +1,21 @@
+# Personal information (academic integrity declarations)
+INTEGRIDAD.txt
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+*.iml
